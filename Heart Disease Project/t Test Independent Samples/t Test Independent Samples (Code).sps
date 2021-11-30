@@ -1,0 +1,6 @@
+﻿* Encoding: UTF-8.
+T-TEST GROUPS=Sex(0 1)
+  /MISSING=ANALYSIS
+  /VARIABLES=Age
+  /CRITERIA=CI(.95).
+

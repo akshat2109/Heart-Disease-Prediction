@@ -1,0 +1,7 @@
+﻿* Encoding: UTF-8.
+
+NPAR TESTS
+  /CHISQUARE=AgeGroup
+  /EXPECTED=EQUAL
+  /MISSING ANALYSIS.
+

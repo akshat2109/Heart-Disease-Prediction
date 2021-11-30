@@ -1,0 +1,6 @@
+﻿* Encoding: UTF-8.
+NPAR TESTS
+  /M-W= HeartDisease BY Sex(0 1)
+  /STATISTICS=DESCRIPTIVES
+  /MISSING ANALYSIS.
+
